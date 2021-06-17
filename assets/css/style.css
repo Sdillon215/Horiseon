@@ -1,13 +1,16 @@
+/* global style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* body style */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* Body style */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -121,6 +125,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer style */
 .footer {
     padding: 30px;
     clear: both;
